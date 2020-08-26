@@ -1,0 +1,59 @@
+{
+    "anytime": [
+        "I use hibernation \n rather than the screensaver",
+        "I use lightning with \n LED rather than classical",
+        "I wash my laundry at 30°c \n as often as I can",
+        "I buy recycled devices",
+        "I give an obsolete device \n (to recycle it)",
+        "I use darktheme",
+        "If wifi is available, \n I prefer it to 4G",
+        "I don't print \n (or I print as \n little as possible)",
+        "I turn off lights, \n screens and PCs \n when I leave the home",
+        "I unsubscribe \n from newsletters",
+        "I use an rss feed reader",
+        "I mainly use favorites \n instead of \n the search engine",
+        "I do a search with \n the most precise \n words possible",
+        "I use Google or Bing only",
+        "I use a ads blocker",
+        "To listen to music \n I use an MP3 player \n rather than streaming",
+        "I clean my mailbox \n every week",
+        "I send as few emails \n as possible to as few \n contacts as possible",
+        "I simplify my code \n as much as possible \n <!-- Keep it simple -->",
+        "I always factor my code",
+        "I always have the reflex \n to test my code because \n I want to be a good developer",
+        "I optimize my SQL queries \n (and I measure their impact)",
+        "Low tech doesn't mean \n poor's tech",
+        "Adapt to need rather \n than to one's own desire",
+        "Windows 7, 8 and XP are down? \n Switch to Linux, \n it consumes a lot less!",
+        "Rate your favorite sites \n with EcoIndex and Ecometer",
+        "The dark theme can save up \n to 40% battery",
+        "PHP7 saves up to 70% \n of computing power required",
+        "Give means Recycle",
+        "Opera browser promises \n 50% energy savings",
+        "With HipHop for PHP \n FB halves the number of servers \n i.e. 60,000 tonnes of CO2",
+        "Advertising is 39% \n of the weight of web pages",
+        "Page Speed Service \n (Google Chrome) \n saves 10 to 50% bandwidth",
+        "I avoid attachments \n in emails",
+        "I optimize my code. \n Always",
+        "I use www.ecoindex.fr \n to assess the quality \n of my code"
+    ],
+    "morning": [
+        "I reduce the elements \n of the signature \n of emails",
+        "I turn off lights, \n screens and PCs \n when I leave the home",
+        "I always factor my code"
+    ],
+    "afternoon": [
+        "I turn off lights, \n screens and PCs \n when I leave the office"
+    ],
+    "evening": [
+        "I switch off standby \n of electrical appliances",
+        "I've bought an A+++ fridge \n it consume 50% less than A+",
+        "I never use \n preheating for oven",
+        "I wash my laundry \n at 30°c \n as often as I can",
+        "I've bought an A+++ \n tumble dryer \n it consume 70% less \n than a B class",
+        "I program the heating \n to be set to 19°C \n in winter",
+        "I leave Netflix \n Prime Video \n Disney+ \n OCS \n they use more than 25% \n of Internet bandwidth",
+        "I turn off the adsl box \n and the TV box \n at night",
+        "I reduce the use of the cloud"
+    ]
+}
